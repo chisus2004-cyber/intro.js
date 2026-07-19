@@ -1,3 +1,9 @@
-console.log("Name:Chinwuba Success Onyeka");
-console.log("Age: 22");
-console.log("Favorite Programming Language: JavaScript");
+
+// intro.js
+const name = "Chinwuba Onyeka Success";
+const age = 22;
+const favoriteLanguage = "JavaScript";
+
+console.log(`Name: ${name}`);
+console.log(`Age: ${age}`);
+console.log(`Language: ${favoriteLanguage}`);
